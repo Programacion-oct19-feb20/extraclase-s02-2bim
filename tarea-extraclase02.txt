@@ -1,0 +1,95 @@
+Generar un programa en Java que permita solucionar la siguiente problemática: 
+
+Dadas las siguientes parroquias del cantón Loja:
+
+El Sagrario
+Sucre
+El Valle
+San Sebastián
+Punzara
+Carigán
+Chantaco
+Chuquiribamba
+El Cisne
+Gualel
+Jimbilla
+Malacatos
+Quinara
+San Lucas
+San Pedro de Vilcabamba
+Santiago
+Taquil
+Vilcabamba
+Yangana
+
+A través del uso de estructuras (arreglos) se puede diferenciar las parroquias 
+rurales y urbanas
+Posición
+0           El Sagrario           urbana
+1           Sucre                 urbana
+2           El Valle              urbana
+3           San Sebastián         urbana
+4           Punzara               urbana  
+5           Carigán               urbana
+6           Chantaco              rural
+7           Chuquiribamba         rural  
+8           El Cisne              rural 
+9           Gualel                rural
+10          Jimbilla              rural
+11          Malacatos             rural  
+12          Quinara               rural
+13          San Lucas             rural  
+14          San Pedro- Vilcabamba rural
+15          Santiago              rural
+16          Taquil                rural
+17          Vilcabamba            rural
+18          Yangana               rural
+
+Se ha relizado un estudio poblacional con los siguientes resultados:
+
+Posición      Hombres     Mujeres
+0             1000        990  
+1             980         1100  
+2             700         600
+3             800         900  
+4             1000        1110
+5             600         700
+6             700         600
+7             800         900
+8             1000        1000
+9             800         600
+10            550         520
+11            950         990
+12            670         650
+13            800         900 
+14            990         880
+15            700         600
+16            800         900
+17            900         700
+18            520         500
+
+
+Analizar y pasar a formato de estructuras (arreglos)
+ 
+Generar:
+- Imprimir el total de hombres que habitan en las parroquias en el cantón Loja
+- Imprimir el total de mujeres que habitan en las parroquias en el cantón Loja
+- Imprimr el total de hombres que habitan en las parroquias rurales en el cantón Loja
+- Imprimir El total de mujeres que habitan en las parroquias urbanas en el cantón Loja
+- En otra estructura generar el total de habitantes de cada parroquia
+- Genera e imprimir un reporte final, con la siguiente información
+
+Información de las parroquias urbanas y rurales del cantón Loja
+
+Parroquia: El Sagrario
+  tipo: urbana
+  hombres: 1000
+  mujeres: 990
+  total: 1990
+...
+
+
+Presentar así con todas las parroquias.
+
+
+
